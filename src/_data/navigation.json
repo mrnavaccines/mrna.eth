@@ -1,14 +1,9 @@
 {
   "items": [
     {
-      "text": "Accueil",
-      "url": "/",
-      "external": false
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
+      "text": "mRna",
+      "url": "/mRna",
+      "external": ""
     },
     {
       "text": "Example Contact Page",
