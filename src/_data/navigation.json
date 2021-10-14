@@ -4,11 +4,6 @@
       "text": "[get] mRna",
       "url": "/mRna",
       "external": ""
-    },
-    {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
     }
   ]
 }
